@@ -1,1 +1,1 @@
-- 👋 Hi, This is @smartertechnologist
+👋 Hi, This is @smartertechnologist
